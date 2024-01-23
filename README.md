@@ -5,11 +5,6 @@ Welcome to the Express.js Blog Application with Random Quote Fetch! This web app
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **CRUD Operations:** Create, Read, Update, and Delete blog posts.
