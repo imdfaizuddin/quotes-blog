@@ -5,6 +5,7 @@ Welcome to the Express.js Blog Application with Random Quote Fetch! This web app
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
+- [Deployed link](#Deployed-Link)
 
 ## Features
 - **CRUD Operations:** Create, Read, Update, and Delete blog posts.
@@ -17,4 +18,5 @@ Welcome to the Express.js Blog Application with Random Quote Fetch! This web app
 - **Dependencies:** UUID (for unique post identifiers), method-override (for PATCH and DELETE HTTP methods)
 - **External API:** Random quote API (https://api.quotable.io/quotes/random)
 
-## Deployed Link : https://quotes-blog.onrender.com
+## Deployed Link 
+- https://quotes-blog.onrender.com
